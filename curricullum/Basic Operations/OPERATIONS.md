@@ -48,7 +48,7 @@
     - "It's alright."
     - "The character \ is called backslash."
 11. WAP using library
-    - Find the maximum between 118967,567853
+    - Find the maximum between 118967,567854
     - Find the minimum between -7897,-5678
     - Find the square root of 789654 and square of 456
     - Find the value for 786 to the power of 7
